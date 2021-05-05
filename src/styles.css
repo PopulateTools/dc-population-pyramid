@@ -1,0 +1,25 @@
+.left-chart.dc-chart g.row text {
+  display: none;
+}
+
+.dc-chart .axis {
+  display: none;
+}
+
+.dc-chart .axis-y {
+  display: block;
+}
+
+.dc-chart rect {
+  rx: 5px;
+  transition: all 1s ease-in-out;
+}
+
+.right-chart.dc-chart g.row text.titlerow {
+  display: none;
+}
+
+.right-chart.dc-chart g.row text {
+  fill: #111;
+  pointer-events: none;
+}

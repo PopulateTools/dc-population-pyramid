@@ -13,8 +13,8 @@
     "d3-scale": "2.2.2",
     "d3-selection": "2.0.0",
     "d3-transition": "2.0.0",
-    "d3-selection": "2.0.0",
     "dc": "4.2.0",
+    "dc-population-pyramid": "1.0.0",
     "parcel-bundler": "^1.6.1"
   },
   "devDependencies": {

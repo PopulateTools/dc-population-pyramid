@@ -1,12 +1,11 @@
 <h1 align="center">DC.js Population Pyramid</h1>
 
 <div align="center">
-  This plugin is a fork of [dc-addons](https://github.com/Intellipharm/dc-addons), converting the pairedRow chart into a population pyramid.
+  This plugin is a fork of <a href="https://github.com/Intellipharm/dc-addons">dc-addons</a>, converting the pairedRow chart into a population pyramid.
 </div>
 <br />
 
 <div align="center">
-    <img src="https://img.shields.io/npm/l/:dc-population-pyramid"/>
     <img src="https://img.shields.io/bundlephobia/minzip/dc-population-pyramid"/>
     <img src="https://img.shields.io/npm/v/dc-population-pyramid"/>
 </div>

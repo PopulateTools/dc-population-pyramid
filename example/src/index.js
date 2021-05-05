@@ -1,10 +1,10 @@
 import "./styles.css";
-import pyramidPopulation from "./dc-pyramid-age.js";
+import populationPyramid from "dc-population-pyramid";
 import * as d3 from "d3";
 import crossfilter from "crossfilter2";
 import { chartRegistry, renderAll, pieChart } from "dc";
 
-const chart = pyramidPopulation("#chart", "main");
+const chart = populationPyramid("#chart", "main");
 chartRegistry.register(chart, "main");
 const filter = pieChart("#filter", "main");
 const state = pieChart("#state", "main");
